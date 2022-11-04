@@ -1,16 +1,25 @@
-# exercicio_semana_2
+# exercicio de tela MasterClass Flutterando
 
-A new Flutter project.
+## Nesse exercicio, treinamos como utilizar as hierarquias de widget a nosso favor, quando o assunto é bons layouts com alinhamento apénas com o basico! 
 
-## Getting Started
+## Todos os layouts foram feitos com widgets Básicos! ( Column , row, stack, container, textfield )
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Print das telas do projeto abaixo!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Menu de telas :
+![image](https://user-images.githubusercontent.com/76565329/199870527-908efc43-048b-4a4d-b07b-d64267698bed.png)
+
+
+## Tinder : 
+![image](https://user-images.githubusercontent.com/76565329/199870593-ce1b714a-91fc-4675-8610-c28a65b0d68c.png)
+
+
+## Money Control:
+![image](https://user-images.githubusercontent.com/76565329/199870856-e83be1a9-9c04-4c46-b7c4-d5c4e777b30a.png)
+
+
+## House Login:
+![image](https://user-images.githubusercontent.com/76565329/199870891-eeaae8e5-07e4-4326-bc9e-dd6274f1c096.png)
+
