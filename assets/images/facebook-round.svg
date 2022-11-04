@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 690 690"
+   shape-rendering="geometricPrecision"
+   text-rendering="geometricPrecision"
+   image-rendering="optimizeQuality"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   version="1.1"
+   id="svg835"
+   sodipodi:docname="facebook-round.svg"
+   width="690"
+   height="690"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <metadata
+     id="metadata841">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs839" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1408"
+     inkscape:window-height="846"
+     id="namedview837"
+     showgrid="false"
+     inkscape:zoom="0.54313087"
+     inkscape:cx="524.00677"
+     inkscape:cy="326.13843"
+     inkscape:window-x="1880"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg835" />
+  <path
+     style="fill:#ffffff;stroke:none;stroke-width:0.191025"
+     d="m 350.16751,26.203429 c -0.98767,0 -1.97553,0.01018 -2.96386,0.02405 -47.61346,-0.06476 -95.2125,10.630173 -138.09972,31.346723 C 95.466618,110.69297 21.081315,235.82036 29.178283,361.0744 c 4.600974,123.54171 89.020387,238.74212 204.914287,281.3247 19.3825,7.60933 39.46459,13.07299 59.86873,16.47749 V 374.9492 H 222.87271 V 268.46365 H 293.9613 V 217.63118 C 291.41209,156.14615 341.20702,98.468415 402.35882,91.890335 437.14205,89.798789 472.08126,91.384841 506.93156,90.890356 V 197.37507 h -88.7866 c -8.14841,-0.0722 -15.70796,6.18841 -17.32529,14.14337 -0.84853,18.94381 -0.14062,37.96903 -0.37283,56.94521 h 106.48472 c -5.8994,35.49513 -11.79862,70.99052 -17.69802,106.48555 h -88.7867 V 658.48794 C 466.29852,647.26216 528.74236,615.94292 575.10079,567.16378 662.81886,479.39437 690.2394,338.59241 642.1531,224.24858 596.08294,107.56101 475.60167,25.81552 350.16751,26.203429 Z"
+     id="path833" />
+</svg>
