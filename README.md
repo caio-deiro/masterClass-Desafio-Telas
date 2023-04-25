@@ -1,6 +1,6 @@
 # exercicio de tela MasterClass Flutterando
 
-## Nesse exercicio, treinamos como utilizar as hierarquias de widget a nosso favor, quando o assunto é bons layouts com alinhamento apénas com o basico! 
+## Nesse exercicio, treinamos como utilizar as hierarquias de widget a nosso favor utilizando apenas com o basico! 
 
 ## Todos os layouts foram feitos com widgets Básicos! ( Column , row, stack, container, textfield )
 
